@@ -29,9 +29,9 @@ Today’s activity summary
 Recent bookings & stays
 
 5. Application Settings:
-control prices and bookings
+Control prices and bookings
 
-6.UI & UX Enhancements:
+6. UI & UX Enhancements:
 Dark mode support
 Fully responsive layout
 Reusable UI component system
