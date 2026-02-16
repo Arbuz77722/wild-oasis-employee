@@ -1,52 +1,53 @@
-Features:
-1. Authentication & User Management :
-Secure employee login & logout
-Employee signup (admin-controlled)
-Update user profile (name, avatar)
-Change password
-Protected routes for authenticated users only
+## Features
 
-2. Bookings Management:
-View all bookings with pagination & filters
-Detailed booking view
-Confirm guest check-ins
-Process guest check-outs
-Delete bookings (with confirmation)
-View today’s arrivals & departures
+### 1. Authentication & User Management
+- Secure employee login and logout
+- Admin-controlled employee signup
+- Update user profile (name, avatar)
+- Change password
+- Protected routes for authenticated users only
 
-3. Cabins Management:
-Create new cabins
-Edit cabin details
-Upload cabin images
-Delete cabins
-View cabin availability & pricing
+### 2. Bookings Management
+- View all bookings with pagination and filters
+- Detailed booking view
+- Confirm guest check-ins
+- Process guest check-outs
+- Delete bookings with confirmation
+- View today’s arrivals and departures
 
-4. Dashboard & Analytics:
-Daily, weekly, and monthly sales overview
-Booking duration charts
-Sales trends visualization
-Today’s activity summary
-Recent bookings & stays
+### 3. Cabins Management
+- Create new cabins
+- Edit cabin details
+- Upload cabin images
+- Delete cabins
+- View cabin availability and pricing
 
-5. Application Settings:
-Control prices and bookings
+### 4. Dashboard & Analytics
+- Daily, weekly, and monthly sales overview
+- Booking duration charts
+- Sales trend visualizations
+- Today’s activity summary
+- Recent bookings and stays
 
-6. UI & UX Enhancements:
-Dark mode support
-Fully responsive layout
-Reusable UI component system
-Loading spinners & skeleton states
-Error boundaries & graceful error handling
+### 5. Application Settings
+- Control pricing and booking rules
 
+### 6. UI & UX Enhancements
+- Dark mode support
+- Fully responsive layout
+- Reusable UI component system
+- Loading spinners and skeleton states
+- Error boundaries and graceful error handling
 
-Tech Stack:
+---
 
-Frontend:
-React (Hooks-based architecture)
-React Router (routing & protected routes)
-React Query (server-state management & caching
-Context API (theme / dark mode)
+## Tech Stack
 
-Backend & Services:
-Supabase
+### Frontend
+- React (hooks-based architecture)
+- React Router (routing and protected routes)
+- React Query (server-state management and caching)
+- Context API (theme and dark mode)
 
+### Backend & Services
+- Supabase (authentication, database, storage)
